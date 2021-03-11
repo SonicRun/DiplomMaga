@@ -9,3 +9,6 @@
 9 http://www.gyrolab.ru/product/gl-vg110-gl-vg109/ Бинс мэмс
 10 Иващенко, А.В. Теоретические основы проектирования автоматизированных систем обработки информации и управления [Текст] / А.В. Иващенко, И.А. Лёзин, И.В. Лёзина. – Самара: СНЦ РАН, 2007. – 94 с
 11 http://ab.kh.ua/plusi-java-programmirovania/ почему java
+12 https://coderlessons.com/tutorials/bazy-dannykh/vyuchit-sqlite/sqlite-kratkoe-rukovodstvo sqlLite
+13 Магнитометрия, акустические и инерциальные технологии локального позиционирования в здравоохранении  (в папке лежит)
+
