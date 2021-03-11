@@ -1,0 +1,11 @@
+1 https://ru.wikipedia.org/wiki/Навигация
+2 https://ru.wikipedia.org/wiki/Навигационная_система
+3 Навигация внутри помещений (в папке лежит)
+4 Позиционирования внутри помоощений (В папке лежит)
+5 https://revolution.allbest.ru/radio/00679759_0.html
+6 https://electrosam.ru/glavnaja/slabotochnye-seti/oborudovanie/akselerometr/ Это где акселерометр
+7 https://usercpu.ru/chto-takoe-magnitometr-v-smartfone-primenenie-v-smartfonah-prochie/ датчик холла
+8 https://smartphonus.com/гироскоп-в-телефоне-что-это-такое/ гироскоп
+9 http://www.gyrolab.ru/product/gl-vg110-gl-vg109/ Бинс мэмс
+10 Иващенко, А.В. Теоретические основы проектирования автоматизированных систем обработки информации и управления [Текст] / А.В. Иващенко, И.А. Лёзин, И.В. Лёзина. – Самара: СНЦ РАН, 2007. – 94 с
+11 http://ab.kh.ua/plusi-java-programmirovania/ почему java
