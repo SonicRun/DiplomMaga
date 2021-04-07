@@ -18,8 +18,9 @@
 18	 Грекул, В.И. Проектирование информационных систем [Текст] / В.И. Грекул, Г. Н Денищенко. – 2016. 
 19 	Пользовательский интерфейс [Электронный ресурс] // URL: http://atworks.ru/polzovatelskij-interfejs-chto-eto.html (дата обращения: 31.03.2021).
 20	Теория и практика UML. Диаграмма состояний [Электронный ресурс] // URL: http://www.it-gost.ru/articles/view_articles/97 (дата обращения: 23.03.2021).
-
-
-
+21 https://rus-fin-dict.slovaronline.com/8560-Навигация
+22 https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/10260/
+23 https://ru.qaz.wiki/wiki/Dijkstra%27s_algorithm
+24 https://habr.com/ru/post/331192/
 
 https://cyberleninka.ru/article/n/adaptivnyy-suboptimalnyy-filtr-kalmana-v-zadache-vystavki-bins/viewer
