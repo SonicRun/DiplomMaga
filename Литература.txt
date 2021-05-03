@@ -23,4 +23,6 @@
 23 https://ru.qaz.wiki/wiki/Dijkstra%27s_algorithm
 24 https://habr.com/ru/post/331192/
 
+
+1-7 описать все статьи
 https://cyberleninka.ru/article/n/adaptivnyy-suboptimalnyy-filtr-kalmana-v-zadache-vystavki-bins/viewer
