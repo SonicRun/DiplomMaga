@@ -1,27 +1,27 @@
-1 https://ru.wikipedia.org/wiki/Навигация
-2 https://ru.wikipedia.org/wiki/Навигационная_система
-3 Навигация внутри помещений (в папке лежит)
-4 Позиционирования внутри помоощений (В папке лежит)
-5 https://revolution.allbest.ru/radio/00679759_0.html
-6 https://electrosam.ru/glavnaja/slabotochnye-seti/oborudovanie/akselerometr/ Это где акселерометр
-7 https://usercpu.ru/chto-takoe-magnitometr-v-smartfone-primenenie-v-smartfonah-prochie/ датчик холла
-8 https://smartphonus.com/гироскоп-в-телефоне-что-это-такое/ гироскоп
-9 http://www.gyrolab.ru/product/gl-vg110-gl-vg109/ Бинс мэмс
-10 Иващенко, А.В. Теоретические основы проектирования автоматизированных систем обработки информации и управления [Текст] / А.В. Иващенко, И.А. Лёзин, И.В. Лёзина. – Самара: СНЦ РАН, 2007. – 94 с
-11 http://ab.kh.ua/plusi-java-programmirovania/ почему java
-12 https://coderlessons.com/tutorials/bazy-dannykh/vyuchit-sqlite/sqlite-kratkoe-rukovodstvo sqlLite
-13 Магнитометрия, акустические и инерциальные технологии локального позиционирования в здравоохранении  (в папке лежит)
-14 Статья ПИТ
-15 Гома, Х. UML. Проектирование систем реального времени, распределенных и параллельных приложений [Текст] / Х. Гома. – Litres, 2017.
-16 	Леоненков, А.В. Самоучитель UML 2 [Текст] / А.В. Леоненков. – БХВ- Петербург, 2013.
-17 	 Буч, Г. Введение в UML от создателей языка. Перевод: Н. Мухин [Текст] / Г. Буч, Д. Рамбо, И. Якобсон. – М: ДМК Пресс, 2011. – с. 496.
-18	 Грекул, В.И. Проектирование информационных систем [Текст] / В.И. Грекул, Г. Н Денищенко. – 2016. 
-19 	Пользовательский интерфейс [Электронный ресурс] // URL: http://atworks.ru/polzovatelskij-interfejs-chto-eto.html (дата обращения: 31.03.2021).
-20	Теория и практика UML. Диаграмма состояний [Электронный ресурс] // URL: http://www.it-gost.ru/articles/view_articles/97 (дата обращения: 23.03.2021).
-21 https://rus-fin-dict.slovaronline.com/8560-Навигация
-22 https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/10260/
-23 https://ru.qaz.wiki/wiki/Dijkstra%27s_algorithm
-24 https://habr.com/ru/post/331192/
+1 https://ru.wikipedia.org/wiki/Навигация  8
+2 https://ru.wikipedia.org/wiki/Навигационная_система  9
+3 Навигация внутри помещений (в папке лежит)  10 
+4 Позиционирования внутри помоощений (В папке лежит) 11
+5 https://revolution.allbest.ru/radio/00679759_0.html 12 
+6 https://electrosam.ru/glavnaja/slabotochnye-seti/oborudovanie/akselerometr/ Это где акселерометр 13
+7 https://usercpu.ru/chto-takoe-magnitometr-v-smartfone-primenenie-v-smartfonah-prochie/ датчик холла 14 
+8 https://smartphonus.com/гироскоп-в-телефоне-что-это-такое/ гироскоп 15 
+9 http://www.gyrolab.ru/product/gl-vg110-gl-vg109/ Бинс мэмс 16
+10 Иващенко, А.В. Теоретические основы проектирования автоматизированных систем обработки информации и управления [Текст] / А.В. Иващенко, И.А. Лёзин, И.В. Лёзина. – Самара: СНЦ РАН, 2007. – 94 с 17
+11 http://ab.kh.ua/plusi-java-programmirovania/ почему java 18 
+12 https://coderlessons.com/tutorials/bazy-dannykh/vyuchit-sqlite/sqlite-kratkoe-rukovodstvo sqlLite 19 
+13 Магнитометрия, акустические и инерциальные технологии локального позиционирования в здравоохранении  (в папке лежит) 20
+14 Статья ПИТ 21
+15 Гома, Х. UML. Проектирование систем реального времени, распределенных и параллельных приложений [Текст] / Х. Гома. – Litres, 2017. 22
+16 	Леоненков, А.В. Самоучитель UML 2 [Текст] / А.В. Леоненков. – БХВ- Петербург, 2013. 23
+17 	 Буч, Г. Введение в UML от создателей языка. Перевод: Н. Мухин [Текст] / Г. Буч, Д. Рамбо, И. Якобсон. – М: ДМК Пресс, 2011. – с. 496. 24
+18	 Грекул, В.И. Проектирование информационных систем [Текст] / В.И. Грекул, Г. Н Денищенко. – 2016. 25
+19 	Пользовательский интерфейс [Электронный ресурс] // URL: http://atworks.ru/polzovatelskij-interfejs-chto-eto.html (дата обращения: 31.03.2021). 26
+20	Теория и практика UML. Диаграмма состояний [Электронный ресурс] // URL: http://www.it-gost.ru/articles/view_articles/97 (дата обращения: 23.03.2021). 27
+21 https://rus-fin-dict.slovaronline.com/8560-Навигация 28
+22 https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/10260/ 29
+23 https://ru.qaz.wiki/wiki/Dijkstra%27s_algorithm 30
+24 https://habr.com/ru/post/331192/ 31 
 
 
 1-7 описать все статьи
